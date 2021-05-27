@@ -1,0 +1,31 @@
+{
+  "name": "covid-dashboard",
+  "version": "1.0.0",
+  "description": "A Covid Dashboard With Vaccine Functionality",
+  "scripts": {
+    "lint": "npx eslint .",
+    "lint:fix": "npx eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishdevdb/covid-dashboard.git"
+  },
+  "keywords": [
+    "covid",
+    "hackathon",
+    "hackon"
+  ],
+  "author": "Krish <krishdevdb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishdevdb/covid-dashboard/issues"
+  },
+  "homepage": "https://github.com/krishdevdb/covid-dashboard#readme",
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
+  }
+}
